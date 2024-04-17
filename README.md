@@ -13,3 +13,4 @@ We will use two links for data collection:
 
 ## Résults
 ![Paris_Vélib_Ration_Electric_and_manual](https://github.com/Blurenis/Parisian_cyclists/assets/87265095/17a9352c-548f-4999-9892-9923882df9f0)
+![image](https://github.com/Blurenis/Parisian_cyclists/assets/87265095/a6a316f9-3e48-44e9-8dd6-8905f5f8c8de)
