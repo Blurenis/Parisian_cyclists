@@ -8,5 +8,6 @@ All the necessary information is sourced from the [Vélib Métropole website](ht
 We will use two links for data collection:
 
 [Station Information](https://velib-metropole-opendata.smovengo.cloud/opendata/Velib_Metropole/station_information.json) - This link provides comprehensive details about the various stations across Paris.
+
 [Real Time Station Status](https://velib-metropole-opendata.smovengo.cloud/opendata/Velib_Metropole/station_status.json) - This link offers current information about the status of each station across Paris.
 
